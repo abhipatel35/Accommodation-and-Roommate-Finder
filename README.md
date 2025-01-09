@@ -37,9 +37,9 @@ Key contributions include:
 - Highlighted the importance of responsive design and usability testing in UI/UX projects.
 
 ## Skills Demonstrated
-  UI/UX Design
-  Wireframing & Prototyping
-  Usability Testing
-  User Research
-  Interaction Design
-  Responsive Design
+  - UI/UX Design
+  - Wireframing & Prototyping
+  - Usability Testing
+  - User Research
+  - Interaction Design
+  - Responsive Design
